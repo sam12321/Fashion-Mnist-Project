@@ -6,3 +6,4 @@ benchmarking machine learning algorithms.It shares the same image size and struc
 Our main goal in this project is to create a model which can identify what kind of fashion item is shown to it in the given image. 
 # Datasets
 The datasets are directly downloaded in the project using tensorflow.However if you want to directly download them you can using this link: https://github.com/zalandoresearch/fashion-mnist
+yeah rigghtt
